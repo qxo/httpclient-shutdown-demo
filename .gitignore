@@ -1,0 +1,11 @@
+tmpDir/
+target/
+.settings/
+.idea
+*.iml
+*.DS_Store
+.project
+.classpath
+.checkstyle
+.vscode/
+.factorypath
